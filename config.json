@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "Name": "Xbox Series X on bol.com",
+            "URL": "https://www.bol.com/be/nl/p/xbox-series-x-console/9300000003688723/?referrer=socialshare_pdp_www",
+            "notAvailable": "Niet leverbaar",
+            "lastAvailability": false
+        },
+        {
+            "Name": "Xbox Series X on Coolblue.be",
+            "URL": "https://www.coolblue.be/nl/product/867421/xbox-series-x.html",
+            "notAvailable": "Houd mij op de hoogte",
+            "lastAvailability": false
+        },
+        {
+            "Name": "Laptop on Coolblue.be",
+            "URL": "https://www.coolblue.be/nl/product/899052/lenovo-legion-5-pro-16ith6h-82jd00awmb-azerty.html",
+            "notAvailable": "Houd mij op de hoogte",
+            "lastAvailability": true
+        },
+        {
+            "Name": "Laptop on Coolblue.be",
+            "URL": "https://www.coolblue.be/nl/product/899052/lenovo-legion-5-pro-16ith6h-82jd00awmb-azerty.html",
+            "notAvailable": "Houd mij op de hoogte",
+            "lastAvailability": false
+        }
+    ],
+    "checkInterval": 10,
+    "colors": true,
+    "columnWidth": 50,
+    "notification": true
+}
