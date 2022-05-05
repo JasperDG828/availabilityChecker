@@ -30,7 +30,7 @@ For example:
 ### Other settings
 
 - `checkInterval`: The time in seconds between checking the availability. Default: `10`
-- `colors`: Wether to use colors in the terminal.
+- `colors`: Whether to use colors in the terminal.
   Default: `true`
 - `columnWidth`: The width of the terminal. Default: `50`
-- `notification`: Wether to notify the user when a product is available. Default: `true`
+- `notification`: Whether to notify the user when a product is available. Default: `true`
